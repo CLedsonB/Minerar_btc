@@ -51,4 +51,4 @@ bc1q0ngtrrhcnzpwty6ye367rxlmv2hhe530hw4n8m
 
 	print(result)
 
-	print(t.time() - t_i)
+	print("%1.2fsegs" %(t.time() - t_i))
