@@ -21,7 +21,7 @@ def minerar(num_bloco, transacoes, hash_ant, quant_zeros):
 
 if __name__ == "__main__":
 	num_bloco = 682074		#VARIAVÉL
-	transacoes = """		#VARIAVÉL
+	transacoes = """
 bc1q4pq4zg7psdjfk4rqvv3cq3ef9vqd48rzpl9ttg
 5.26274317 BTC
 35Lov749zSdxEdqMypG2tHX2TSCVsF1kUH
